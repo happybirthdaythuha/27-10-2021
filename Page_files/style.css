@@ -206,7 +206,7 @@ button:focus {
   padding-bottom: 0.8rem;
 }
 .info .location::before, .info .location::after {
-  content: "";
+  /* content: ""; */
   position: absolute;
   background: #fff;
   left: 0%;
